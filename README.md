@@ -14,13 +14,13 @@ _**Note: You can name your subfolder anything you want as long as it is appropri
 ```
 .
 |--🗀 Student 1 Full Name(sample)
-    |--🗁 Programs
-    |--🗁 Powerpoints
-    |--🗁 External Link(s)
+|    |--🗁 Programs
+|    |--🗁 Powerpoints
+|    |--🗁 External Link(s)
 |--🗀 Student 2 Full Name(sample)
-    |--🗁 Programs
-    |--🗁 Powerpoints
-    |--🗁 Videos
+|   |--🗁 Programs
+|   |--🗁 Powerpoints
+|   |--🗁 Videos
 |-- README.md
 ```
 
@@ -29,21 +29,25 @@ _**If you will submit a youtube video for the project, create a README.md file t
 ```
 .
 |--🗀 Student 1 Full Name(sample)
-    |--🗁 Programs
-           `--🧾 main.java
-           `--🧾 projectcode.cpp
-    |--🗁 Powerpoints
-           `--🧾 mysampletopic.pptx
-    |--🗁 External Link(s)
-           `--🧾 README.md
+|    |--🗁 Programs
+|    |      `--🧾 main.java
+|    |      `--🧾 projectcode.cpp
+|    |--🗁 Powerpoints
+|    |      `--🧾 mysampletopic.pptx
+|    |--🗁 External Link(s)
+|    |      `--🧾 README.md
+|
+|
 |--🗀 Student 2 Full Name(sample)
-    |--🗁 Programs
-           `--🧾 app.js
-           `--🧾 driver.c
-    |--🗁 Powerpoints
-           `--🧾 mytopic.pptx
-    |--🗁 Videos
-            `--🧾 video.mp4
+|    |--🗁 Programs
+|    |      `--🧾 app.js
+|    |      `--🧾 driver.c
+|    |--🗁 Powerpoints
+|    |      `--🧾 mytopic.pptx
+|    |--🗁 Videos
+|    |      `--🧾 video.mp4
+|
+|
 |-🧾 README.md
 ```
 
