@@ -10,7 +10,7 @@ Corresponding file structure:
 ```
 
 Then, to keep everything organized, you will create subfolders in your main folder to group the type of files you will submit.
-_Note: You can name your subfolder anything you want as long as it is appropriate and relevant to your project. Notice how student 1 has a different subfolder names as student 2_
+_**Note: You can name your subfolder anything you want as long as it is appropriate and relevant to your project. Notice how student 1 has a different subfolder names as student 2.**_
 ```
 .
 |--🗀 Student 1 Full Name(sample)
@@ -25,25 +25,25 @@ _Note: You can name your subfolder anything you want as long as it is appropriat
 ```
 
 Lastly, you need to add the files in your subfolders according to their appropriate type.
-_If you will submit a youtube video for the project, create a README.md file then paste the link there_
+_**If you will submit a youtube video for the project, create a README.md file then paste the link there.**_
 ```
 .
 |--🗀 Student 1 Full Name(sample)
     |--🗁 Programs
-       `--🧾 main.java
-       `--🧾 projectcode.cpp
+           `--🧾 main.java
+           `--🧾 projectcode.cpp
     |--🗁 Powerpoints
-       `--🧾 mysampletopic.pptx
+           `--🧾 mysampletopic.pptx
     |--🗁 External Link(s)
-       `--🧾 README.md
+           `--🧾 README.md
 |--🗀 Student 2 Full Name(sample)
     |--🗁 Programs
-       `--🧾 app.js
-       `--🧾 driver.c
+           `--🧾 app.js
+           `--🧾 driver.c
     |--🗁 Powerpoints
-       `--🧾 mytopic.pptx
+           `--🧾 mytopic.pptx
     |--🗁 Videos
-       `--🧾 video.mp4
+            `--🧾 video.mp4
 |-🧾 README.md
 ```
 
