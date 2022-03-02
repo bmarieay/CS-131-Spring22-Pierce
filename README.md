@@ -1,6 +1,6 @@
 # CS-131-Spring22-Pierce
 
-For this project, you will create a folder and use your full name as your folder's name. 
+For this project, you will upload a folder and use your full name as your folder's name with all the files under it. 
 Corresponding file structure:
 ```
 .
@@ -9,46 +9,42 @@ Corresponding file structure:
 |-- README.md
 ```
 
-Then, to keep everything organized, you will create subfolders in your main folder to group the type of files you will submit.
-_**Note: You can name your subfolder anything you want as long as it is appropriate and relevant to your project. Notice how student 1 has a different subfolder names as student 2.**_
 ```
 .
 |--🗂️ Student 1 Full Name(sample)
-|    |--📂 Programs
-|    |--📂 Powerpoints
-|    |--📂 External Link(s)
-|--🗂️ Student 2 Full Name(sample)
-|   |--📂 Programs
-|   |--📂 Powerpoints
-|   |--📂 Videos
-|-- README.md
-```
-
-Lastly, you need to add the files in your subfolders according to their appropriate type.
-_**If you will submit a youtube video for the project, create a README.md file then paste the link there.**_
-```
-.
-|--🗂️ Student 1 Full Name(sample)
-|    |--📂 Programs
-|    |     `--🧾 main.java
-|    |     `--🧾 projectcode.cpp
-|    |--📂 Powerpoints
-|    |     `--🧾 mysampletopic.pptx
-|    |--📂 External Link(s)
-|    |     `--🧾 README.md
+|       `--🧾 main.java
+|       `--🧾 projectcode.cpp
+|       `--🧾 mysampletopic.pptx
+|       `--🧾 README.md
 |
 |
 |--🗂️ Student 2 Full Name(sample)
-|    |--📂 Programs
-|    |     `--🧾 app.js
-|    |     `--🧾 driver.c
-|    |--📂 Powerpoints
-|    |     `--🧾 mytopic.pptx
-|    |--📂 Videos
-|    |     `--🧾 video.mp4
-|
+|       `--🧾 app.js
+|       `--🧾 driver.c
+|       `--🧾 mytopic.pptx
+|       `--🧾 video.mp4
 |
 |--🧾 README.md
 ```
 
 ## Instructions
+
+1. To upload a file, click **Add file**, then choose **Upload files**
+
+![image](https://user-images.githubusercontent.com/96358406/156272165-f1c9f2c8-341d-47ab-baea-7d3853b58e33.png)
+
+2. Drag the folder.
+
+![image](https://user-images.githubusercontent.com/96358406/156273373-e476f62f-c6ee-4b77-981d-a0955435a197.png)
+
+3.  Scroll down then click **Commit changes**
+
+![image](https://user-images.githubusercontent.com/96358406/156272862-da8c1104-966e-4bce-ba59-de4d20544622.png)
+
+
+
+
+
+
+
+
